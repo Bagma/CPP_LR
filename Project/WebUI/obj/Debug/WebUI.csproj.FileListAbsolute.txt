@@ -1,0 +1,138 @@
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\roslyn\csc.exe
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\roslyn\vbc.exe
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\WebUI.dll.config
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\WebUI.dll
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\WebUI.pdb
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\Antlr3.Runtime.dll
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\DAL.dll
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\EntityFramework.dll
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\Newtonsoft.Json.dll
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\Ninject.dll
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\Ninject.Web.Common.dll
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\System.Net.Http.Formatting.dll
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\System.Web.Helpers.dll
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\System.Web.Http.dll
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\System.Web.Http.WebHost.dll
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\System.Web.Mvc.dll
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\System.Web.Optimization.dll
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\System.Web.Razor.dll
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\System.Web.WebPages.dll
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\WebActivator.dll
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\WebGrease.dll
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\DAL.pdb
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\EntityFramework.xml
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\Ninject.pdb
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\Ninject.xml
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\Ninject.Web.Common.pdb
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\Ninject.Web.Common.xml
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\Ninject.Web.Mvc.pdb
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\System.Net.Http.Formatting.xml
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\System.Web.Http.xml
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\System.Web.Http.WebHost.xml
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\System.Web.Helpers.xml
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\System.Web.Mvc.xml
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\System.Web.Optimization.xml
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\System.Web.Razor.xml
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\System.Web.WebPages.xml
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\Antlr3.Runtime.pdb
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\Newtonsoft.Json.xml
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\obj\Debug\WebUI.dll
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\WebUI\obj\Debug\WebUI.pdb
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\roslyn\csc.exe
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\roslyn\System.Collections.Immutable.dll
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\roslyn\System.Reflection.Metadata.dll
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\roslyn\vbc.exe
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\roslyn\VBCSCompiler.exe
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\roslyn\VBCSCompiler.exe.config
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\WebUI.dll.config
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\WebUI.dll
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\WebUI.pdb
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\Antlr3.Runtime.dll
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\DAL.dll
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\EntityFramework.dll
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\EntityFramework.SqlServer.dll
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\Microsoft.Web.Infrastructure.dll
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\Newtonsoft.Json.dll
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\Ninject.dll
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\Ninject.Web.Common.dll
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\Ninject.Web.Mvc.dll
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\System.Net.Http.Formatting.dll
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\System.Web.Helpers.dll
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\System.Web.Http.dll
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\System.Web.Http.WebHost.dll
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\System.Web.Mvc.dll
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\System.Web.Optimization.dll
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\System.Web.Razor.dll
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\System.Web.WebPages.Deployment.dll
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\System.Web.WebPages.dll
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\System.Web.WebPages.Razor.dll
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\WebActivator.dll
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\WebGrease.dll
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\DAL.pdb
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\EntityFramework.xml
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\EntityFramework.SqlServer.xml
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\Ninject.pdb
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\Ninject.xml
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\Ninject.Web.Common.pdb
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\Ninject.Web.Common.xml
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\Ninject.Web.Mvc.pdb
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\Ninject.Web.Mvc.xml
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\System.Net.Http.Formatting.xml
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\System.Web.Http.xml
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\System.Web.Http.WebHost.xml
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\System.Web.Helpers.xml
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\System.Web.Mvc.xml
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\System.Web.Optimization.xml
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\System.Web.Razor.xml
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\System.Web.WebPages.xml
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\System.Web.WebPages.Deployment.xml
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\System.Web.WebPages.Razor.xml
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\Antlr3.Runtime.pdb
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\Newtonsoft.Json.xml
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\ru\System.Web.Helpers.resources.dll
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\ru\System.Web.Mvc.resources.dll
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\ru\System.Web.Optimization.resources.dll
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\ru\System.Web.Razor.resources.dll
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\ru\System.Web.WebPages.resources.dll
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\ru\System.Web.WebPages.Deployment.resources.dll
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\bin\ru\System.Web.WebPages.Razor.resources.dll
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\obj\Debug\WebUI.dll
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\WebUI\obj\Debug\WebUI.pdb
