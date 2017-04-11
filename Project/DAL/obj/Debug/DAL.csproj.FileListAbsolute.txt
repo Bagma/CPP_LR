@@ -1,0 +1,20 @@
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\DAL\bin\Debug\DAL.dll.config
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\DAL\bin\Debug\DAL.dll
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\DAL\bin\Debug\DAL.pdb
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\DAL\obj\Debug\DAL.dll
+C:\Users\Влад\Desktop\KPP-labs-master\KPP-labs-master\Kpp\DAL\obj\Debug\DAL.pdb
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\DAL\bin\Debug\DAL.dll.config
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\DAL\bin\Debug\DAL.dll
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\DAL\bin\Debug\DAL.pdb
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\DAL\bin\Debug\EntityFramework.dll
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\DAL\bin\Debug\EntityFramework.SqlServer.dll
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\DAL\bin\Debug\EntityFramework.xml
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\DAL\bin\Debug\EntityFramework.SqlServer.xml
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\DAL\obj\Debug\DAL.dll
+G:\4к\2 semestr\KPP-labs-master\KPP-labs-master\Kpp\DAL\obj\Debug\DAL.pdb
